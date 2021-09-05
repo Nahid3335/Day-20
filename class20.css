@@ -1,0 +1,58 @@
+.header img{
+    width: 50px;
+}
+
+.bred-bg{
+    background-color: #e9ecef;
+}
+
+.slider img{
+    height: 500px;
+}
+
+
+
+footer{
+    background-color: #17a2b8;
+}
+
+/* .scrol-spy{
+    height: 150px;
+    overflow-y: scroll;
+
+} */
+
+
+.scrollspy-example {
+    position: relative;
+    height: 150px;
+    margin-top: .5rem;
+    overflow-y: auto;
+}
+
+.scrollspy-example{
+    height: 150px;
+    overflow-y: scroll;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #0d6efd;
+}
+
+
+.nav-1{
+
+   
+}
+
+.accordion-1 h2 button {
+	border: 2px solid #ddd;
+	color: #0b81ff;
+	font-size: 22px;
+	font-weight: 600;
+	padding: 10px 0 10px 20px;
+}
+
+.accordion-button::after{
+    display: none;
+}
